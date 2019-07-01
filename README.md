@@ -8,5 +8,5 @@ An Android Application developed using Java that tests the response speed of you
 <img src="/screenshots/Score.jpg?raw=true" width="220" alt="Displaying the final score, with the option to play again">
 
 ### Video
-Click on the following link to watch what the app looks like on a mobile.  
+Click on the following link to watch what the app looks like on a mobile  
 https://drive.google.com/open?id=1-LyEtb65VPccgT4504_JlK9Wia0eAmtR
